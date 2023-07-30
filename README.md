@@ -1,2 +1,6 @@
-# follow-order-flow
-apply machine learning to identify agency level trade signal and follow their order
+# Fellegi-Sunter Model
+Implement the clustering model in Fellegi-Sunter framework in Apache Spark. 
+
+## Approach
+
+
